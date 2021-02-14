@@ -12,9 +12,9 @@
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/frontend-javascript-yellow.svg?logo=javascript&style=flat-square)
 
-- Front End - **HTML**, **CSS**, **JavaScript**
+- Front End - **HTML**, **CSS** , **JavaScript**
 
-### Need help?
+### Still need help?
 
 ```
 
@@ -26,20 +26,6 @@
 
 ```
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/smilegupta.1998)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/gupta_smile_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/gupta_smile_)
+***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/faq-boxes/) this repo.***
 
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/ThankYouCard-Srushith/) this repo.***
-
------
-
-```
-
-  if (isAwesome) {
-    // thanks in advance :p xoxo
-    starThisRepository();
-  }
-
-```
-
-******
-
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
