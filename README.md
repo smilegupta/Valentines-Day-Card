@@ -6,8 +6,6 @@
 
 ### Designing a [Card](https://smilegupta.github.io/Valentines-Day-Card/) to show your Love how much you love them!
 
-> #### Click [here](https://smilegupta.github.io/TValentines-Day-Card/) to view live demo!
-
 ## Technology Stack Used
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
