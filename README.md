@@ -1,6 +1,6 @@
 # Valentine's Day Card! - [Coder's way of Expressing](https://smilegupta.github.io/Valentines-Day-Card/)
-[![Happy Valentines Day](https://img.shields.io/badge/ValentinesDayCard-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/ThankYouCard-Srushith/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/ThankYouCard-Srushith/)
-> **99.9% of people just say "Happy Valentines's Day" to each other with the same 18 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
+ 
+**99.9% of people just say "Happy Valentines's Day" to each other with the same 18 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
 [![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/Valentines-Day-Card/)
 
