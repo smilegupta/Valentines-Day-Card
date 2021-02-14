@@ -1,10 +1,8 @@
 # Valentine's Day Card! - [Coder's way of Expressing](https://smilegupta.github.io/Valentines-Day-Card/)
  
-**99.9% of people just say "Happy Valentines's Day" to each other with the same 18 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
+Are you looking for some code to tell you Love how much you love them. Say this Valentines with the help of code.
 
-[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/Valentines-Day-Card/)
-
-### Designing a [Card](https://smilegupta.github.io/Valentines-Day-Card/) to show your Love how much you love them!
+### Here a Live [Demo](https://smilegupta.github.io/Valentines-Day-Card/) 
 
 ## Technology Stack Used
 
