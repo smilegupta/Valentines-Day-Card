@@ -1,10 +1,10 @@
 # Valentine's Day Card! - [Coder's way of Expressing](https://smilegupta.github.io/Valentines-Day-Card/)
  
-Are you looking for some code to tell you Love how much you love them. Say this Valentines with the help of code.
+#### Are you looking for some code to tell you Love how much you love them. Say this Valentines with the help of code.
 
-### Here a Live [Demo](https://smilegupta.github.io/Valentines-Day-Card/) 
+#### Here a Live [Demo](https://smilegupta.github.io/Valentines-Day-Card/) 
 
-## Technology Stack Used
+### Technology Stack Used
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
